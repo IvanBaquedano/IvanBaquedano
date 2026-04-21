@@ -1,6 +1,6 @@
 # ¡Hola! Soy Iván Baquedano, un programador en formación 🚀
 
-Me apasiona el desarrollo web y actualmente estoy estudiando la carrera de Analista Programador en el Instituto Profesional Duoc UC y en cursos externos para convertir mis ideas en proyectos reales. Mi objetivo es dominar el desarrollo Full Stack.
+Me apasiona el desarrollo web y actualmente estoy estudiando la carrera de Analista Programador en el Instituto Profesional Duoc UC y en cursos externos para convertir mis ideas y las tuyas en proyectos reales. Mi objetivo es dominar el desarrollo Full Stack.
 
 ### 📚 Mi Formación Actual
 - **Curso:** "Desarrollo web completo con HTML5, CSS3, JS Ajax PHP y MySQL".
